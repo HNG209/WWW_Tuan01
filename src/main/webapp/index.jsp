@@ -5,7 +5,6 @@
     <title>Student Registration Form</title>
 </head>
 <body>
-<h2>Student Registration Form</h2>
 <form action="bai4" method="post">
     <label for="firstName">First Name:</label>
     <input type="text" id="firstName" name="firstName" required><br><br>
@@ -21,5 +20,6 @@
 
     <input type="submit" value="Register">
 </form>
+<a href="form.html">Chuyển hướng tới bài 5</a>
 </body>
 </html>
